@@ -1,0 +1,5 @@
+# BungeePlayerList config
+
+# Whether or not we should display a specific server's player list in lieu of the global list.
+# To enable, remove the comment from the next line and specify the server.
+# display-list-of-server: lobby

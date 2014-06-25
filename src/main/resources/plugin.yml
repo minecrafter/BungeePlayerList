@@ -1,0 +1,4 @@
+name: BungeePlayerList
+author: tuxed
+version: 0.1
+main: com.imaginarycode.minecraft.bungeeplayerlist.BungeePlayerList
