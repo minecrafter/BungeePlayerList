@@ -80,7 +80,7 @@ public class BungeePlayerList extends Plugin implements Listener {
         List<ServerPing.PlayerInfo> newPlayers = new ArrayList<>();
 
         for (String player : provider.getPlayers()) {
-            currentInfo.add(new ServerPing.PlayerInfo(player, (String)null));
+            newPlayers.add(new ServerPing.PlayerInfo(player, (String)null));
         }
 
         Collections.shuffle(newPlayers);
